@@ -1,5 +1,5 @@
 Airplane Risk Analysis 
-[https://www.google.com/imgres?q=airplane%20images%20hd&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fplane-is-runway-with-words-private-jet-front_188544-8032.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.1141335507.1718323200%26semt%3Dsph&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Faviation&docid=olEse8WFj97FcM&tbnid=v7XZ08jeTrjhAM&vet=12ahUKEwi66o6OjN2GAxXshf0HHWcrCk8QM3oECE8QAA..i&w=626&h=417&hcb=2&ved=2ahUKEwi66o6OjN2GAxXshf0HHWcrCk8QM3oECE8QAA]
+![](https://www.google.com/imgres?q=airplane%20images%20hd&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fplane-is-runway-with-words-private-jet-front_188544-8032)
 **By**: Sandra Koech
 
 ## Project Overview
